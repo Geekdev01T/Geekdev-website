@@ -1,0 +1,8 @@
+{
+  "name": "Geekdev - IT Solutions",
+  "description": "Professional landing page for Geekdev, offering IT solutions, training, and automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
